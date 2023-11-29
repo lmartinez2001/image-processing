@@ -5,7 +5,3 @@ This repository contains Jupyter notebooks dedicated to image restoration method
 ## Contents
 
 The notebooks in this repository are organized by the image restoration method they implement. Each notebook contains a brief summary of the method, the implementation, and some discussion of the results.
-
-## Licence
-
-This project is licensed under the MIT License - see the LICENSE file for details.
