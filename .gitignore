@@ -2,3 +2,4 @@ __pycache__/
 res/
 *.py
 *WIP*
+.ipynb_checkpoints/
