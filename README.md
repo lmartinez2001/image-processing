@@ -1,7 +1,25 @@
-# Image Restoration Notebooks
+# Image processing
 
-This repository contains Jupyter notebooks dedicated to image restoration methods. These methods are based on various research papers and courses I have attended. The main focus of the methods implemented here is on color restoration and denoising.
+This repo contains implementations of classic image processing algorithms. Most of the methods are based on principles still in use today. However, some methods are largely outdated but fun to implement. What's more, the visual result is often quite appealing. 
 
-## Contents
 
-The notebooks in this repository are organized by the image restoration method they implement. Each notebook contains a brief summary of the method, the implementation, and some discussion of the results.
+## Total Variation Denoising
+
+<p align="center">
+    <img src="images/tv_denoising.png" width="600px"/>
+</p>
+
+## Automatic Color Enhancement
+
+<p align="center">
+    <img src="images/ace.png" width="600px"/>
+</p>
+
+
+
+## Pyramid Blending
+
+<p align="center">
+<img src="images/pangolin.png" height="250px"/>
+    <img src="images/hand.png" height="250px"/>
+</p>
