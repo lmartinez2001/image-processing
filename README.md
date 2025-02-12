@@ -16,10 +16,19 @@ This repo contains implementations of classic image processing algorithms. Most 
 </p>
 
 
-
 ## Pyramid Blending
 
 <p align="center">
 <img src="images/pangolin.png" height="250px"/>
     <img src="images/hand.png" height="250px"/>
+</p>
+
+## Color Transfer
+
+<p align="center">
+    <img src="images/color_transfer_toy.png" width="600px"/>
+</p>
+
+<p align="center">
+    <img src="images/color_transfer_res.png" width="600px"/>
 </p>
